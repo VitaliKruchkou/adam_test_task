@@ -1,0 +1,124 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Leanne",
+            "last_name": "Graham",
+            "email": "Sincere@april.biz",
+            "dateOfBirth": "01.01.1980",
+            "image": "http://placekitten.com/201/300",
+            "additionalInformation": {
+                "phone": "1-770-736-8031 x56442",
+                "address": "Kulas Light"
+            }
+        },
+                {
+            "id": 2,
+            "first_name": "Ervin ",
+            "last_name": "Howell",
+            "email": "Shanna@melissa.tv",
+            "dateOfBirth": "02.01.1980",
+            "image": "http://placekitten.com/202/300",
+            "additionalInformation": {
+                "phone": "010-692-6593 x09125",
+                "address": "Victor Plains"
+            }
+        },
+                {
+            "id": 3,
+            "first_name": "Clementine",
+            "last_name": "Bauch",
+            "email": "Nathan@yesenia.net",
+            "dateOfBirth": "03.01.1980",
+            "image": "http://placekitten.com/203/300",
+            "additionalInformation": {
+                "phone": "1-463-123-4447",
+                "address": "Douglas Extension"
+            }
+        },
+                {
+            "id": 4,
+            "first_name": "Patricia",
+            "last_name": "Lebsack",
+            "email": "Julianne.OConner@kory.org",
+            "dateOfBirth": "04.01.1980",
+            "image": "http://placekitten.com/204/300",
+            "additionalInformation": {
+                "phone": "493-170-9623 x156",
+                "address": "Hoeger Mall"
+            }
+        },
+                {
+            "id": 5,
+            "first_name": "Chelsey",
+            "last_name": "Dietrich",
+            "email": "Lucio_Hettinger@annie.ca",
+            "dateOfBirth": "01.01.1979",
+            "image": "http://placekitten.com/205/300",
+            "additionalInformation": {
+                "phone": "(254)954-1289",
+                "address": "Skiles Walks"
+            }
+        },
+                {
+            "id": 6,
+            "first_name": "Dennis",
+            "last_name": "Schulist",
+            "email": "Karley_Dach@jasper.info",
+            "dateOfBirth": "01.01.1978",
+            "image": "http://placekitten.com/206/300",
+            "additionalInformation": {
+                "phone": "1-477-935-8478 x6430",
+                "address": "Norberto Crossing"
+            }
+        },
+                {
+            "id": 7,
+            "first_name": "Kurtis",
+            "last_name": "Weissnat",
+            "email": "Telly.Hoeger@billy.biz",
+            "dateOfBirth": "01.01.1981",
+            "image": "http://placekitten.com/207/300",
+            "additionalInformation": {
+                "phone": "210.067.6132",
+                "address": "Rex Trail"
+            }
+        },
+                {
+            "id": 8,
+            "first_name": "Nicholas",
+            "last_name": "Runolfsdottir",
+            "email": "Sherwood@rosamond.me",
+            "dateOfBirth": "01.10.1980",
+            "image": "http://placekitten.com/208/300",
+            "additionalInformation": {
+                "phone": "586.493.6943 x140",
+                "address": "Ellsworth Summit"
+            }
+        },
+                {
+            "id": 9,
+            "first_name": "Glenna",
+            "last_name": "Reichert",
+            "email": "Chaim_McDermott@dana.io",
+            "dateOfBirth": "15.05.1980",
+            "image": "http://placekitten.com/211/300",
+            "additionalInformation": {
+                "phone": "(775)976-6794 x41206",
+                "address": "Dayna Park"
+            }
+        },
+                {
+            "id": 10,
+            "first_name": "Clementina",
+            "last_name": "DuBuque",
+            "email": "Rey.Padberg@karina.biz",
+            "dateOfBirth": "02.08.1980",
+            "image": "http://placekitten.com/210/300",
+            "additionalInformation": {
+                "phone": "024-648-3804",
+                "address": "Kattie Turnpike"
+            }
+        }
+    ]
+}

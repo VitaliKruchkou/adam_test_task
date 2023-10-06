@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <header
+    class="css-urcdts"
+  >
+    <a
+      class="css-18ql7pt"
+      href="/"
+    >
+      Home
+    </a>
+    <a
+      class="css-urcdts"
+      href="/about"
+    >
+      About page
+    </a>
+  </header>
+  <main>
+    <input
+      aria-label="cost-input"
+      placeholder="Search ..."
+      type="text"
+      value=""
+    />
+    <select
+      aria-label="cost-select"
+    >
+      <option
+        value=""
+      >
+        Select from the list
+      </option>
+      <option
+        value="dateOfBirth"
+      >
+        Date of Birthday
+      </option>
+    </select>
+    <div
+      aria-label="cost-container"
+      class="css-1s806mh"
+    >
+      <div>
+        User not found
+      </div>
+    </div>
+  </main>
+</div>
+`;
